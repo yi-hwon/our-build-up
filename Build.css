@@ -1,0 +1,64 @@
+html {
+    font-family: Noto Sans, 'Noto Snas KR';
+}
+
+body {
+    text-align: center;
+    padding: 24px 40px;
+}
+
+.title {
+    font-size: 100px;
+}
+
+.book-image {
+    margin: 0 -48px;
+    white-space: nowrap;
+}
+
+.index {
+    height: 200px;
+    margin: 200px;
+    padding: 200px;
+}
+
+.index-name {
+    font-size: 50px;
+}
+
+.plot {
+    margin: auto;
+}
+
+.review {
+    margin: 50px;
+    font-size: 50px;
+}
+
+.background0 {
+    background-color: silver;
+    border: 1px solid #bababa;
+    border-radius: 10px;
+    box-shadow: 5px 10px 15px 10px rgba(0, 0, 0, 0);
+}
+
+.background1 {
+    background-color: silver;
+    border: 1px solid #bababa;
+    border-radius: 10px;
+    box-shadow: 5px 10px 15px 10px rgba(0, 0, 0, 0);
+}
+
+.background2 {
+    background-color: silver;
+    border: 1px solid #bababa;
+    border-radius: 10px;
+    box-shadow: 5px 10px 15px 10px rgba(0, 0, 0, 0);
+}
+
+.background3 {
+    background-color: silver;
+    border: 1px solid #bababa;
+    border-radius: 10px;
+    box-shadow: 5px 10px 15px 10px rgba(0, 0, 0, 0);
+}
